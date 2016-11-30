@@ -2,7 +2,7 @@
 Team and repository tags
 ========================
 
-.. image:: http://governance.openstack.org/badges/glance.svg
+.. image:: http://gvernance.openstack.org/badges/glance.svg
     :target: http://governance.openstack.org/reference/tags/index.html
     :alt: Searchlight is an official OpenStack project as indicated by the "project:official" badge
 
